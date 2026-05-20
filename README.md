@@ -18,7 +18,7 @@ The modified architecture successfully outperformed the baseline ResNet-18 model
 
 ## Repository Structure
 - `AI_CourseWork_2025.ipynb`: Main Jupyter notebook containing data loading, preprocessing, model definition, training loop, and evaluation.
-- `docs/Report-AI-CW-Antonin-Maitre.pdf`: Comprehensive academic project report detailing the methodology, visual performance analysis (ROC & Precision-Recall curves), and cross-validation challenges.
+- `docs/Report-AI-CW.pdf`: Comprehensive academic project report detailing the methodology, visual performance analysis (ROC & Precision-Recall curves), and cross-validation challenges.
 
 ## Requirements
 To run the notebook, install the following dependencies:
